@@ -3,7 +3,12 @@
     <javadoc xml:space="preserve"/>
     <imports/>
     <implements/>
-    <fields/>
-    <constructors/>
+    <fields>
+        <blank/>
+        <blank/>
+    </fields>
+    <constructors>
+        <comment xml:space="preserve">d</comment>
+    </constructors>
     <methods/>
 </class>
