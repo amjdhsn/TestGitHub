@@ -9,7 +9,9 @@
             <javadoc xml:space="preserve">Constructor for objects of class Test2</javadoc>
             <params/>
             <throws/>
-            <body/>
+            <body>
+                <blank/>
+            </body>
         </constructor>
     </constructors>
     <methods/>
