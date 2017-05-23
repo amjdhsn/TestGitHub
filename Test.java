@@ -10,9 +10,6 @@ public class Test
   
     private int x;
     
-    
-   
-
     /**
      * Constructor for objects of class Test
      */
