@@ -5,7 +5,7 @@
     <implements/>
     <fields/>
     <constructors>
-        <constructor access="public" enable="true">
+        <constructor access="public" enable="false">
             <javadoc xml:space="preserve">Constructor for objects of class ww</javadoc>
             <params/>
             <throws/>
