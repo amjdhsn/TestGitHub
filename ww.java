@@ -5,11 +5,4 @@
  */
 public class ww
 {
-
-    /**
-     * Constructor for objects of class ww
-     */
-    public ww()
-    {
-    }
 }
