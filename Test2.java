@@ -5,7 +5,7 @@
  */
 public class Test2
 {
-    
+     
     /**
      * Constructor for objects of class Test2
      */
