@@ -15,6 +15,7 @@ public class www
      */
     public www()
     {
+        // initialise variables
         x = 0;
     }
 
