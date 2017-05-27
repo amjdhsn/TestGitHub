@@ -7,7 +7,7 @@ public class Test2
 {
      //
     /**
-     * Constructor for objects of class Test2
+     *  for objects of class 
      */
     public Test2()
     {
