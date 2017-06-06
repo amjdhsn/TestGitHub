@@ -45,5 +45,5 @@ target3.showInterface=false
 target3.type=AbstractTarget
 target3.typeParameters=
 target3.width=80
-target3.x=140
-target3.y=250
+target3.x=200
+target3.y=230
