@@ -1,19 +1,21 @@
+package G;
+
 
 /**
- * Write a description of class w1 here.
+ * Write a description of class www here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class w1
+public class www
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class w1
+     * Constructor for objects of class www
      */
-    public w1()
+    public www()
     {
         // initialise instance variables
         x = 0;
