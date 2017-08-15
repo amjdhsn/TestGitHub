@@ -18,7 +18,7 @@ public class R
      */
     public R()
     {
-        // initialise instance variables
+        
         x = 0;
     }
 
