@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class noe
+public class noe22
 {
     // instance variables - replace the example below with your own
     private int x; 
@@ -14,7 +14,7 @@ public class noe
     /**
      * Constructor for objects of class noe
      */
-    public noe()
+    public noe22()
     {
         // initialise instance variables
         x = 0;

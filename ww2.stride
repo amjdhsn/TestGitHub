@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class name="ww2" enable="true" strideversion="1">
+    <javadoc xml:space="preserve">Write a description of class ww here.
+@author (your name) @version (a version number or a date)</javadoc>
+    <imports/>
+    <implements/>
+    <fields>
+        <comment xml:space="preserve">instance variables - replace the example below with your own</comment>
+        <variable access="private" type="int" type-java="int" name="x" enable="true"/>
+    </fields>
+    <constructors>
+        <constructor access="public" enable="true">
+            <javadoc xml:space="preserve">Constructor for objects of class ww</javadoc>
+            <params/>
+            <throws/>
+            <body>
+                <comment xml:space="preserve">initialise instance variables</comment>
+                <assign dest="x" dest-java="x" src="0" src-java="0" enable="true"/>
+            </body>
+        </constructor>
+    </constructors>
+    <methods>
+        <method access="public" type="int" type-java="int" name="sampleMethod" enable="true">
+            <javadoc xml:space="preserve">An example of a method - replace this comment with your own
+@param  y  a sample parameter for a method @return    the sum of x and y</javadoc>
+            <params>
+                <param type="int" type-java="int" name="y"/>
+            </params>
+            <throws/>
+            <body>
+                <comment xml:space="preserve">put your code here</comment>
+                <return value="x+y" value-java="x + y" enable="true"/>
+            </body>
+        </method>
+    </methods>
+</class>
