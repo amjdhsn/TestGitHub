@@ -9,16 +9,21 @@
             <javadoc xml:space="preserve">Constructor for objects of class Foo</javadoc>
             <params/>
             <throws/>
-            <body/>
+            <body>
+                <variable type="int" type-java="int" name="c" enable="true"/>
+                <assign dest="c" dest-java="c" src="4" src-java="4" enable="true"/>
+            </body>
         </constructor>
     </constructors>
     <methods>
         <method access="public" type="void" type-java="void" name="test" enable="true">
-            <javadoc xml:space="preserve"/>
+            <javadoc xml:space="preserve">&lt;frames&gt;&lt;variable type="int" type-java="int" name="c" enable="true" /&gt;&lt;assign dest="c" dest-java="c" src="4" src-java="4" enable="true" /&gt;&lt;/frames&gt;</javadoc>
             <params/>
             <throws/>
             <body>
-                <call expression="()" expression-java="()" enable="true"/>
+                <comment xml:space="preserve">/&lt;frames&gt;&lt;variable type="int" type-java="int" name="c" enable="true" /&gt;&lt;assign dest="c" dest-java="c" src="4" src-java="4" enable="true" /&gt;&lt;if condition="" condition-java="" enable="true"&gt;&lt;ifStatements /&gt;&lt;/if&gt;&lt;/frames&gt;</comment>
+                <variable type="int" type-java="int" name="c" enable="true"/>
+                <assign dest="c" dest-java="c" src="4" src-java="4" enable="true"/>
             </body>
         </method>
     </methods>

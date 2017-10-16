@@ -4,13 +4,13 @@ import lang.stride.*;
 /**
  * 
  */
-public class qq
+public class qq1
 {
 
     /**
      * Constructor for objects of class qq
      */
-    public qq()
+    public qq1()
     {
     }
 
