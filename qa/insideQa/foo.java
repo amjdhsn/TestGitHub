@@ -1,21 +1,21 @@
-package qa;
+package qa.insideQa;
 
 
 /**
- * Write a description of class AD here.
+ * Write a description of class foo here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class AD
+public class foo
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class AD
+     * Constructor for objects of class foo
      */
-    public AD()
+    public foo()
     {
         // initialise instance variables
         x = 0;
