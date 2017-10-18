@@ -1,21 +1,21 @@
-package qa;
+package qa.insideQa;
 
 
 /**
- * Write a description of class new3 here.
+ * Write a description of class g here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class new3
+public class g
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class new3
+     * Constructor for objects of class g
      */
-    public new3()
+    public g()
     {
         // initialise instance variables
         x = 0;

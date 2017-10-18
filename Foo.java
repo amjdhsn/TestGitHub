@@ -13,6 +13,8 @@ public class Foo
     public Foo()
     {
         int c;
+        
+        
         c = 4;
     }
 

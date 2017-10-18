@@ -11,6 +11,8 @@
             <throws/>
             <body>
                 <variable type="int" type-java="int" name="c" enable="true"/>
+                <blank/>
+                <blank/>
                 <assign dest="c" dest-java="c" src="4" src-java="4" enable="true"/>
             </body>
         </constructor>
