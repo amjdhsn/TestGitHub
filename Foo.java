@@ -13,8 +13,6 @@ public class Foo
     public Foo()
     {
         int c;
-        
-        
         c = 4;
     }
 
@@ -24,7 +22,5 @@ public class Foo
     public void test()
     {
         /* /<frames><variable type="int" type-java="int" name="c" enable="true" /><assign dest="c" dest-java="c" src="4" src-java="4" enable="true" /><if condition="" condition-java="" enable="true"><ifStatements /></if></frames>*/
-        int c;
-        c = 4;
     }
 }

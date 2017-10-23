@@ -11,8 +11,6 @@
             <throws/>
             <body>
                 <variable type="int" type-java="int" name="c" enable="true"/>
-                <blank/>
-                <blank/>
                 <assign dest="c" dest-java="c" src="4" src-java="4" enable="true"/>
             </body>
         </constructor>
@@ -24,8 +22,6 @@
             <throws/>
             <body>
                 <comment xml:space="preserve">/&lt;frames&gt;&lt;variable type="int" type-java="int" name="c" enable="true" /&gt;&lt;assign dest="c" dest-java="c" src="4" src-java="4" enable="true" /&gt;&lt;if condition="" condition-java="" enable="true"&gt;&lt;ifStatements /&gt;&lt;/if&gt;&lt;/frames&gt;</comment>
-                <variable type="int" type-java="int" name="c" enable="true"/>
-                <assign dest="c" dest-java="c" src="4" src-java="4" enable="true"/>
             </body>
         </method>
     </methods>
