@@ -6,6 +6,7 @@ import lang.stride.*;
  */
 public class Foo
 {
+
     /**
      * Constructor for objects of class Foo
      */
