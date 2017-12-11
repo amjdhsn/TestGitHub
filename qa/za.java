@@ -1,25 +1,24 @@
+package qa;
+
 
 /**
- * Write a description of class aqw here.
+ * Write a description of class za here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class aqw
+public class za
 {
     // instance variables - replace the example below with your own
-    //     اختبار اللغة العربية
-    private int x; 
+    private int x;
 
     /**
-     * Constructor for objects of class aqw
+     * Constructor for objects of class za
      */
-    public aqw()
+    public za()
     {
-        int تن;
-        تن = 10;
         // initialise instance variables
-        x = تن;
+        x = 0;
     }
 
     /**

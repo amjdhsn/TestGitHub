@@ -1,20 +1,21 @@
+package P2;
+
 
 /**
- * Write a description of class noe here.
+ * Write a description of class J here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class noe22
+public class J
 {
     // instance variables - replace the example below with your own
-    private int x; 
-    
+    private int x;
 
     /**
-     * Constructor for objects of class noe
+     * Constructor for objects of class J
      */
-    public noe22()
+    public J()
     {
         // initialise instance variables
         x = 0;
@@ -26,9 +27,9 @@ public class noe22
      * @param  y  a sample parameter for a method
      * @return    the sum of x and y
      */
-    public int sampleMethod() throws Exception
+    public int sampleMethod(int y)
     {
-System.in.read();
-        return 2;
+        // put your code here
+        return x + y;
     }
 }

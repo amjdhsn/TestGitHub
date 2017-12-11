@@ -12,6 +12,7 @@ public class qq
      */
     public qq()
     {
+        /* اختبار اللغة*/
     }
 
     /**
@@ -24,7 +25,8 @@ public class qq
     /**
      * 
      */
-    public void test()
+    public int test()
     {
+        return 4;
     }
 }
